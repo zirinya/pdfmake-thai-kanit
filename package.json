@@ -1,5 +1,5 @@
 {
-  "name": "pdfmake",
+  "name": "pdfmake-thai-kanit",
   "version": "0.3.0-beta.1",
   "description": "Client/server side PDF printing in pure JavaScript",
   "main": "js/index.js",
